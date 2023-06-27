@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../font/inter/Inter-Regular.eot');
+    src: url('Inter-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/inter/Inter-Regular.woff2') format('woff2'),
+        url('../font/inter/Inter-Regular.woff') format('woff'),
+        url('../font/inter/Inter-Regular.ttf') format('truetype'),
+        url('../font/inter/Inter-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('../font/cabin/Cabin-Bold.eot');
+    src: url('Cabin-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/cabin/Cabin-Bold.woff2') format('woff2'),
+        url('../font/cabin/Cabin-Bold.woff') format('woff'),
+        url('../font/cabin/Cabin-Bold.ttf') format('truetype'),
+        url('../font/cabin/Cabin-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url('../font/poppins/Poppins-Bold.eot');
+    src: url('Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/poppins/Poppins-Bold.woff2') format('woff2'),
+        url('../font/poppins/Poppins-Bold.woff') format('woff'),
+        url('../font/poppins/Poppins-Bold.ttf') format('truetype'),
+        url('../font/poppins/Poppins-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
